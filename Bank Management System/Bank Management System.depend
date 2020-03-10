@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1583876560 source:c:\users\mircea\desktop\bank management system\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<vector>
+	<typeinfo>
+
